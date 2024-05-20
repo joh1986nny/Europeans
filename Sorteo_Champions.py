@@ -12,12 +12,12 @@ time.sleep(8)
 print("Comienza el sorteo de CHAMPIONS...")
 time.sleep(3)
 #Listas con los nombres de los 24 equipos
-Campeones=['Pauferrer','Jonyoa9','Aniakenda','Loures'] 
-Puestos5al8=["Mascaras", "TBM", "JRC25", "JMJ"]
-Puestos9al12=["Rulovich", "Ivaxavi90", "Jam", "CNPero"]
-Puestos13al16=["Yerito27", "Jarley1",  "Kofy", "Sayshyos"]
-Puestos17al20=["Mifersan", "Naynoa", "Prosi20", "Javitortas"]
-Ascendidos=["Supino", "Pikisi", "Bierzo", "Jibu"]
+Campeones=["JRC25","Prosi20","Naynoa","Yerito27"] 
+Puestos5al8=["Javitortas","Jonyoa9","Jam","CNPero"]
+Puestos9al12=["Kofy","Jarley1","Jibu","Supino"]
+Puestos13al16=["Rulovich","Pikisi","Aniakenda","Loures"]
+Puestos17al20=["TBM","JMJ","Bierzo","Mascaras"]
+Ascendidos=["Tonikevicius13","Kaiser1985","Escamoxador","Maikelnaight"]
 
 print("Poniendo las bolas en los bombos y removiendo....")
 time.sleep(3)
@@ -90,12 +90,12 @@ time.sleep(5)
 print("Comienza el sorteo de UEFA...")
 time.sleep(3)
 #Listas con los nombres de los 24 equipos
-Descendidos=['Palmao1','Palmao2','Palmao3','Palmao4'] 
-Puestos29a32=["Equipo29", "Equipo30", "Equipo31", "Equipo32"]
-Puestos33al36=["Equipo33", "Equipo34", "Equipo35", "Equipo36"]
-Puestos37al40=["Equipo37", "Equipo38", "Equipo39", "Equipo40"]
-Puestos41al44=["Equipo41", "Equipo42", "Equipo43", "Equipo44"]
-Puestos45al48=["Equipo45", "Equipo46", "Equipo47", "Equipo48"]
+Descendidos=["Ivaxavi90","Sayshyos","ManiGarcia","Perydpp"]
+Puestos29a32=["Superpops","Pinseque","Espein","Juanxuvenilteis"]
+Puestos33al36=["Malili","Solanitos","Seroca","Crusaider66"]
+Puestos37al40=["Pedrosuarez11","Jaruru","Erwati","Vancarls"]
+Puestos41al44=["Darder","Laboral","Topete","Yerayone3"]
+Puestos45al48=["Thai","Morti2","Srwatson27","Davidlsm"]
 
 print("Poniendo las bolas en los bombos y removiendo....")
 time.sleep(3)
